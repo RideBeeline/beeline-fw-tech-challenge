@@ -1,0 +1,20 @@
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+#  Build files
+
+emulator/build/
+
+
+# Python
+__pycache__/
