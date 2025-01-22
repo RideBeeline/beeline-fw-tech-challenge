@@ -25,6 +25,6 @@ once you have python and pip,
 ~~~
 pip install -r requirements.txt
 ~~~
-should be enough to install pygame and numpy. 
+should be enough to install pygame, numpy and gdown. 
 
 

@@ -46,7 +46,7 @@ git clone <repository url>
 ~~~
 
 ### Prerequisits
-The project requires a compiler, make, and python. If you are on linux, getting a recent version of GCC, GNU make, and python/pip should do. You'll need to run `pip install -r requirements.txt` to get pygame & numpy. There are more detailed instructions for [Mac](docs/installation_mac.md) and [Windows](docs/installation_windows.md). 
+The project requires a compiler, make, and python. If you are on linux, getting a recent version of GCC, GNU make, and python/pip should do. You'll need to run `pip install -r requirements.txt` to get pygame, numpy, and gdown. There are more detailed instructions for [Mac](docs/installation_mac.md) and [Windows](docs/installation_windows.md). 
 
 ### Compiling
 Running `make PLATFORM=MACOS` (or equivalent) in the emulator directory should create a libbeeline library in the emulator/build directory. Look at `emulator/Makefile` for reference.

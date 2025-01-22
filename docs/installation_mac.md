@@ -9,11 +9,18 @@ You'll need
 * numpy
 
 ### pygame
-You might find `pip install pygame` is enough these days but to make sure pictures load, follow the tutorial Taken from the [Pygame Wiki: MacCompile](https://www.pygame.org/wiki/MacCompile)
+You might find `pip install pygame` is enough these days but to make sure pictures load, follow the tutorial taken from the [Pygame Wiki: MacCompile](https://www.pygame.org/wiki/MacCompile)
 
 ### numpy
 ~~~
 pip install numpy
+~~~
+
+### gdown
+Not essential for running but this will be useful during the interview.
+~~~
+pip install gdown
+gdown --version
 ~~~
 
 ## Command Line Tools (CLT) for XCode 
